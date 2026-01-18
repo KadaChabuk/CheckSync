@@ -1,0 +1,8 @@
+{
+  "name": "CheckSync Pro",
+  "description": "A professional real-time multi-user checklist application with AI-powered task suggestions, role-based sharing, and live activity tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
